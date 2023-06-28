@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @b-akshay , a scientist in machine learning, genomics, and drug discovery.
+- 👋 Hi, I’m @b-akshay , a scientist in machine learning, drug discovery, and genomics.
 - 📫 akshay@akshay.bio
 
 <!---
