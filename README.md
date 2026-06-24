@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @b-akshay , a scientist building agents to generate insights. I work primarily in machine learning, drug discovery, and genomics.
+- 👋 Hi, I’m @b-akshay , a scientist building agents. I work primarily in machine learning, drug discovery, and genomics.
 - 📫 akshay@vac.bio
 
 <!---
